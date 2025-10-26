@@ -1,2 +1,3 @@
-# level-thumbs-mod
-A mod that adds level thumbnails to level cells
+# LevelThumbnails
+
+This is where she makes a mod.
